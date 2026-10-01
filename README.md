@@ -1,8 +1,8 @@
 Python Programming and Applications
 B.Tech. in Robotics and Artificial Intelligence, III Semester School of ECE, REVA University | AY 2026-27
 
-**Name:** Neev Dave
-**SRN:** R25EV029
+**Name:** Rithushree Rao
+**SRN:** R25EV038
 **Section:** F
 
 ## What is in this repository
